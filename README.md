@@ -47,5 +47,5 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) y el [Angular CLI](
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <url-de-tu-repositorio>
+   git clone https://github.com/accordi-gioele/perfumeHub
    cd proyecto-perfumes/perfumeHud
